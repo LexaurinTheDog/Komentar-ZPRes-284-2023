@@ -1681,6 +1681,11 @@ Rozhoduje se usnesením; rozhodnutí doručovaná vyhláškou jsou účinná zve
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Cdo 907/2025](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/08F5A6ED9280E56FC1258C83004D1E36?openDocument) — 9. 4. 2025, kat. A
+  > „V restrukturalizačním řízení má před úpravou obsaženou v obecné části zákona o zvláštních řízeních soudních vždy přednost zvláštní úprava obsažená v zákoně č. 284/2023 Sb., o preventivní restrukturalizaci (§ 1 odst. 2 z. ř. s. in fine). Jestliže zvláštní úprava procesní otázky v zákoně o preventivní restrukturalizaci chybí, nebo má sama jen povahu úpravy doplňující (jdoucí nad rámec obecné úpravy, leč nikoli proti ní), uplatní se pro restrukturalizační řízení bez dalšího (přímo) obecná část zákona o zvláštních řízeních soudních, tedy ustanovení § 2 až § 30 z. ř. s. Má-li úprava obsažená v obecné části zákona o zvláštních řízeních soudních jen doplňující charakter k úpravě daného procesního institutu v občanském soudním řádu (promítá-li se v ní princip zbytkové subsidiarity), uplatní se pro restrukturalizační řízení bez dalšího (přímo) příslušné ustanovení obecné části zákona o…"
+
 #### Neodkladná opatření (odst. 1 a 2)
 
 Soud, u něhož řízení probíhá, učiní **i před rozhodnutím o místní příslušnosti** opatření, která nesnesou odkladu — zejména **jmenuje restrukturalizačního správce** nebo mu **uloží předběžný přezkum** pohledávky. Totéž platí, není-li dosud rozhodnuto o **vyloučení soudce** nebo o **námitce podjatosti** (odchylka od obecného pravidla, že vyloučený soudce nemá ve věci činit úkony, srov. § 14 a násl. OSŘ). Úprava je inspirována § 7b odst. 5 IZ. Ani **návrh na přikázání věci z důvodu vhodnosti** (§ 12 odst. 2 OSŘ) nebrání vedení řízení (odst. 2). Smyslem je, aby procesní obstrukce nezmařily časově citlivé kroky (lhůty předběžného přezkumu, 6měsíční lhůta podle § 42).
